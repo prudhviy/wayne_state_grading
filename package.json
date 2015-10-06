@@ -1,0 +1,25 @@
+{
+  "name": "web_tech_grading",
+  "version": "1.0.0",
+  "description": "Few utilities I use to automate grading of cources",
+  "main": "grading_helper.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jsdom": "^6.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node grading_helper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prudhviy/wayne_state_grading.git"
+  },
+  "author": "bhaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prudhviy/wayne_state_grading/issues"
+  },
+  "homepage": "https://github.com/prudhviy/wayne_state_grading#readme"
+}
